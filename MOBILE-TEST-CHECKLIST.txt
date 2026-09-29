@@ -1,0 +1,9 @@
+RANGWAKO FINANCIAL ADVISORY — MOBILE TEST CHECKLIST
+1. Test Home, About, Services, Business Services and Contact.
+2. Test the hamburger menu on iPhone/Android.
+3. Test phone, WhatsApp, email, directions and Save Contact.
+4. Test several Services > Enquire buttons via WhatsApp and Email.
+5. Complete the Contact quote form and test both sending options.
+6. Rotate portrait/landscape and check there is no horizontal scrolling.
+7. On iPhone, test Safari and confirm form fields do not zoom when tapped.
+8. Check the site at small and large text sizes where possible.
